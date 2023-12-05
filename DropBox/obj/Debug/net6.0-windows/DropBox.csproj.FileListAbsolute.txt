@@ -1,0 +1,17 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\bin\Debug\net6.0-windows\DropBox.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\bin\Debug\net6.0-windows\DropBox.deps.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\bin\Debug\net6.0-windows\DropBox.runtimeconfig.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\bin\Debug\net6.0-windows\DropBox.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\bin\Debug\net6.0-windows\DropBox.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\obj\Debug\net6.0-windows\DropBox.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\obj\Debug\net6.0-windows\DropBox.Properties.Resources.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\obj\Debug\net6.0-windows\DropBox.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\obj\Debug\net6.0-windows\DropBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\obj\Debug\net6.0-windows\DropBox.AssemblyInfoInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\obj\Debug\net6.0-windows\DropBox.AssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\obj\Debug\net6.0-windows\DropBox.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\obj\Debug\net6.0-windows\DropBox.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\obj\Debug\net6.0-windows\refint\DropBox.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\obj\Debug\net6.0-windows\DropBox.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\obj\Debug\net6.0-windows\DropBox.genruntimeconfig.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\DropBox\obj\Debug\net6.0-windows\ref\DropBox.dll

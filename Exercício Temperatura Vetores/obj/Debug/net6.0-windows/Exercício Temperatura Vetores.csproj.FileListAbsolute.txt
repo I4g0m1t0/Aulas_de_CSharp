@@ -1,0 +1,16 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\bin\Debug\net6.0-windows\Exercício Temperatura Vetores.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\bin\Debug\net6.0-windows\Exercício Temperatura Vetores.deps.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\bin\Debug\net6.0-windows\Exercício Temperatura Vetores.runtimeconfig.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\bin\Debug\net6.0-windows\Exercício Temperatura Vetores.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\bin\Debug\net6.0-windows\Exercício Temperatura Vetores.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\obj\Debug\net6.0-windows\Exercício_Temperatura_Vetores.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\obj\Debug\net6.0-windows\Exercício Temperatura Vetores.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\obj\Debug\net6.0-windows\Exercício Temperatura Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\obj\Debug\net6.0-windows\Exercício Temperatura Vetores.AssemblyInfoInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\obj\Debug\net6.0-windows\Exercício Temperatura Vetores.AssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\obj\Debug\net6.0-windows\Exercício Temperatura Vetores.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\obj\Debug\net6.0-windows\Exercício Temperatura Vetores.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\obj\Debug\net6.0-windows\refint\Exercício Temperatura Vetores.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\obj\Debug\net6.0-windows\Exercício Temperatura Vetores.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\obj\Debug\net6.0-windows\Exercício Temperatura Vetores.genruntimeconfig.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Exercício Temperatura Vetores\obj\Debug\net6.0-windows\ref\Exercício Temperatura Vetores.dll

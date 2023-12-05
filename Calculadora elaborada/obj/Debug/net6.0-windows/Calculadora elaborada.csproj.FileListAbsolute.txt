@@ -1,0 +1,19 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\bin\Debug\net6.0-windows\Calculadora elaborada.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\bin\Debug\net6.0-windows\Calculadora elaborada.deps.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\bin\Debug\net6.0-windows\Calculadora elaborada.runtimeconfig.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\bin\Debug\net6.0-windows\Calculadora elaborada.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\bin\Debug\net6.0-windows\Calculadora elaborada.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\Calculadora_elaborada.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\Calculadora elaborada.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\Calculadora elaborada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\Calculadora elaborada.AssemblyInfoInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\Calculadora elaborada.AssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\Calculadora elaborada.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\Calculadora elaborada.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\refint\Calculadora elaborada.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\Calculadora elaborada.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\Calculadora elaborada.genruntimeconfig.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\ref\Calculadora elaborada.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\Calculadora_elaborada.Form2.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\Calculadora_elaborada.Form3.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Calculadora elaborada\obj\Debug\net6.0-windows\Calculadora_elaborada.Form4.resources

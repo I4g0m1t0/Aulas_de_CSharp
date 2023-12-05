@@ -1,0 +1,37 @@
+c:\users\jve1828\documents\visual studio 2010\Projects\WinAppClasseUsuario\WinAppClasseUsuario\bin\Debug\WinAppClasseUsuario.exe
+c:\users\jve1828\documents\visual studio 2010\Projects\WinAppClasseUsuario\WinAppClasseUsuario\bin\Debug\WinAppClasseUsuario.pdb
+c:\users\jve1828\documents\visual studio 2010\Projects\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jve1828\documents\visual studio 2010\Projects\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.frmClasseUsuario.resources
+c:\users\jve1828\documents\visual studio 2010\Projects\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.Properties.Resources.resources
+c:\users\jve1828\documents\visual studio 2010\Projects\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jve1828\documents\visual studio 2010\Projects\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jve1828\documents\visual studio 2010\Projects\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.exe
+c:\users\jve1828\documents\visual studio 2010\Projects\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.pdb
+Z:\ETT\Informatica\POO1\EXEMPLOS\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.exe
+Z:\ETT\Informatica\POO1\EXEMPLOS\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.pdb
+Z:\ETT\Informatica\POO1\EXEMPLOS\WinAppClasseUsuario\WinAppClasseUsuario\bin\Debug\WinAppClasseUsuario.exe
+Z:\ETT\Informatica\POO1\EXEMPLOS\WinAppClasseUsuario\WinAppClasseUsuario\bin\Debug\WinAppClasseUsuario.pdb
+Z:\ETT\Informatica\POO1\EXEMPLOS\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.csprojResolveAssemblyReference.cache
+Z:\ETT\Informatica\POO1\EXEMPLOS\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.frmClasseUsuario.resources
+Z:\ETT\Informatica\POO1\EXEMPLOS\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.Properties.Resources.resources
+Z:\ETT\Informatica\POO1\EXEMPLOS\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.csproj.GenerateResource.Cache
+C:\Users\Claudia\Documents\csharp\AOO\Herança\WinAppClasseUsuario\WinAppClasseUsuario\bin\Debug\WinAppClasseUsuario.exe.config
+C:\Users\Claudia\Documents\csharp\AOO\Herança\WinAppClasseUsuario\WinAppClasseUsuario\bin\Debug\WinAppClasseUsuario.exe
+C:\Users\Claudia\Documents\csharp\AOO\Herança\WinAppClasseUsuario\WinAppClasseUsuario\bin\Debug\WinAppClasseUsuario.pdb
+C:\Users\Claudia\Documents\csharp\AOO\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.csproj.AssemblyReference.cache
+C:\Users\Claudia\Documents\csharp\AOO\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.frmClasseUsuario.resources
+C:\Users\Claudia\Documents\csharp\AOO\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.Properties.Resources.resources
+C:\Users\Claudia\Documents\csharp\AOO\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.csproj.GenerateResource.cache
+C:\Users\Claudia\Documents\csharp\AOO\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Documents\csharp\AOO\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.exe
+C:\Users\Claudia\Documents\csharp\AOO\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.pdb
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\CLASSES\Herança\Herança\Herança\WinAppClasseUsuario\WinAppClasseUsuario\bin\Debug\WinAppClasseUsuario.exe.config
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\CLASSES\Herança\Herança\Herança\WinAppClasseUsuario\WinAppClasseUsuario\bin\Debug\WinAppClasseUsuario.exe
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\CLASSES\Herança\Herança\Herança\WinAppClasseUsuario\WinAppClasseUsuario\bin\Debug\WinAppClasseUsuario.pdb
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\CLASSES\Herança\Herança\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.csproj.AssemblyReference.cache
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\CLASSES\Herança\Herança\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.frmClasseUsuario.resources
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\CLASSES\Herança\Herança\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.Properties.Resources.resources
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\CLASSES\Herança\Herança\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.csproj.GenerateResource.cache
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\CLASSES\Herança\Herança\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.csproj.CoreCompileInputs.cache
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\CLASSES\Herança\Herança\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.exe
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\CLASSES\Herança\Herança\Herança\WinAppClasseUsuario\WinAppClasseUsuario\obj\x86\Debug\WinAppClasseUsuario.pdb

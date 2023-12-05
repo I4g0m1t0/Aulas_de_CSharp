@@ -1,0 +1,16 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\bin\Debug\net6.0-windows\Coversor de medidas.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\bin\Debug\net6.0-windows\Coversor de medidas.deps.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\bin\Debug\net6.0-windows\Coversor de medidas.runtimeconfig.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\bin\Debug\net6.0-windows\Coversor de medidas.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\bin\Debug\net6.0-windows\Coversor de medidas.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\obj\Debug\net6.0-windows\Coversor_de_medidas.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\obj\Debug\net6.0-windows\Coversor de medidas.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\obj\Debug\net6.0-windows\Coversor de medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\obj\Debug\net6.0-windows\Coversor de medidas.AssemblyInfoInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\obj\Debug\net6.0-windows\Coversor de medidas.AssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\obj\Debug\net6.0-windows\Coversor de medidas.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\obj\Debug\net6.0-windows\Coversor de medidas.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\obj\Debug\net6.0-windows\refint\Coversor de medidas.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\obj\Debug\net6.0-windows\Coversor de medidas.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\obj\Debug\net6.0-windows\Coversor de medidas.genruntimeconfig.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Coversor de medidas\obj\Debug\net6.0-windows\ref\Coversor de medidas.dll

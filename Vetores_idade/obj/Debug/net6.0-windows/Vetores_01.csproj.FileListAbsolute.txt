@@ -1,0 +1,32 @@
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\bin\Debug\net6.0-windows\Vetores_01.exe
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\bin\Debug\net6.0-windows\Vetores_01.deps.json
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\bin\Debug\net6.0-windows\Vetores_01.runtimeconfig.json
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\bin\Debug\net6.0-windows\Vetores_01.dll
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\bin\Debug\net6.0-windows\Vetores_01.pdb
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\obj\Debug\net6.0-windows\Vetores_01.Form1.resources
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\obj\Debug\net6.0-windows\Vetores_01.csproj.GenerateResource.cache
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\obj\Debug\net6.0-windows\Vetores_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\obj\Debug\net6.0-windows\Vetores_01.AssemblyInfoInputs.cache
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\obj\Debug\net6.0-windows\Vetores_01.AssemblyInfo.cs
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\obj\Debug\net6.0-windows\Vetores_01.csproj.CoreCompileInputs.cache
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\obj\Debug\net6.0-windows\Vetores_01.dll
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\obj\Debug\net6.0-windows\refint\Vetores_01.dll
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\obj\Debug\net6.0-windows\Vetores_01.pdb
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\obj\Debug\net6.0-windows\Vetores_01.genruntimeconfig.cache
+C:\Users\claudia.werlich\Documents\Entra21_2023\C#\Vetores_01\obj\Debug\net6.0-windows\ref\Vetores_01.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\bin\Debug\net6.0-windows\Vetores_01.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\bin\Debug\net6.0-windows\Vetores_01.deps.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\bin\Debug\net6.0-windows\Vetores_01.runtimeconfig.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\bin\Debug\net6.0-windows\Vetores_01.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\bin\Debug\net6.0-windows\Vetores_01.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\obj\Debug\net6.0-windows\Vetores_01.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\obj\Debug\net6.0-windows\Vetores_01.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\obj\Debug\net6.0-windows\Vetores_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\obj\Debug\net6.0-windows\Vetores_01.AssemblyInfoInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\obj\Debug\net6.0-windows\Vetores_01.AssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\obj\Debug\net6.0-windows\Vetores_01.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\obj\Debug\net6.0-windows\Vetores_01.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\obj\Debug\net6.0-windows\refint\Vetores_01.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\obj\Debug\net6.0-windows\Vetores_01.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\obj\Debug\net6.0-windows\Vetores_01.genruntimeconfig.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetores_idade\obj\Debug\net6.0-windows\ref\Vetores_01.dll

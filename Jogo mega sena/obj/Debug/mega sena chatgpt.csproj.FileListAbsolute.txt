@@ -1,0 +1,17 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\mega sena chatgpt\obj\Debug\mega sena chatgpt.csproj.AssemblyReference.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\mega sena chatgpt\obj\Debug\mega_sena_chatgpt.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\mega sena chatgpt\obj\Debug\mega_sena_chatgpt.Properties.Resources.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\mega sena chatgpt\obj\Debug\mega sena chatgpt.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\mega sena chatgpt\obj\Debug\mega sena chatgpt.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\mega sena chatgpt\bin\Debug\mega sena chatgpt.exe.config
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\mega sena chatgpt\bin\Debug\mega sena chatgpt.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\mega sena chatgpt\bin\Debug\mega sena chatgpt.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\mega sena chatgpt\obj\Debug\mega sena chatgpt.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\mega sena chatgpt\obj\Debug\mega sena chatgpt.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo mega sena\obj\Debug\mega sena chatgpt.csproj.AssemblyReference.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo mega sena\obj\Debug\SeuNamespace.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo mega sena\obj\Debug\mega_sena_chatgpt.Properties.Resources.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo mega sena\obj\Debug\mega sena chatgpt.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo mega sena\obj\Debug\mega sena chatgpt.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo mega sena\obj\Debug\mega sena chatgpt.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo mega sena\obj\Debug\mega sena chatgpt.pdb

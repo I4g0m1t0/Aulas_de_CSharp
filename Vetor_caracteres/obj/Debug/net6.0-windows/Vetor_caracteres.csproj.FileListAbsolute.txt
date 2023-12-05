@@ -1,0 +1,16 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\bin\Debug\net6.0-windows\Vetor_caracteres.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\bin\Debug\net6.0-windows\Vetor_caracteres.deps.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\bin\Debug\net6.0-windows\Vetor_caracteres.runtimeconfig.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\bin\Debug\net6.0-windows\Vetor_caracteres.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\bin\Debug\net6.0-windows\Vetor_caracteres.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\obj\Debug\net6.0-windows\Vetor_caracteres.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\obj\Debug\net6.0-windows\Vetor_caracteres.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\obj\Debug\net6.0-windows\Vetor_caracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\obj\Debug\net6.0-windows\Vetor_caracteres.AssemblyInfoInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\obj\Debug\net6.0-windows\Vetor_caracteres.AssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\obj\Debug\net6.0-windows\Vetor_caracteres.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\obj\Debug\net6.0-windows\Vetor_caracteres.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\obj\Debug\net6.0-windows\refint\Vetor_caracteres.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\obj\Debug\net6.0-windows\Vetor_caracteres.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\obj\Debug\net6.0-windows\Vetor_caracteres.genruntimeconfig.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Vetor_caracteres\obj\Debug\net6.0-windows\ref\Vetor_caracteres.dll

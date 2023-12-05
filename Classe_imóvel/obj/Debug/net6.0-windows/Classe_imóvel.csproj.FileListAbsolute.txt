@@ -1,0 +1,16 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\bin\Debug\net6.0-windows\Classe_imóvel.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\bin\Debug\net6.0-windows\Classe_imóvel.deps.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\bin\Debug\net6.0-windows\Classe_imóvel.runtimeconfig.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\bin\Debug\net6.0-windows\Classe_imóvel.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\bin\Debug\net6.0-windows\Classe_imóvel.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\obj\Debug\net6.0-windows\Classe_imóvel.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\obj\Debug\net6.0-windows\Classe_imóvel.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\obj\Debug\net6.0-windows\Classe_imóvel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\obj\Debug\net6.0-windows\Classe_imóvel.AssemblyInfoInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\obj\Debug\net6.0-windows\Classe_imóvel.AssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\obj\Debug\net6.0-windows\Classe_imóvel.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\obj\Debug\net6.0-windows\Classe_imóvel.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\obj\Debug\net6.0-windows\refint\Classe_imóvel.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\obj\Debug\net6.0-windows\Classe_imóvel.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\obj\Debug\net6.0-windows\Classe_imóvel.genruntimeconfig.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Classe_imóvel\obj\Debug\net6.0-windows\ref\Classe_imóvel.dll

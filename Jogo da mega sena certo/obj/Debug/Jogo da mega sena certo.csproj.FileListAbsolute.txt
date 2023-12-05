@@ -1,0 +1,10 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo da mega sena certo\obj\Debug\Jogo da mega sena certo.csproj.AssemblyReference.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo da mega sena certo\obj\Debug\Jogo_da_mega_sena_certo.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo da mega sena certo\obj\Debug\Jogo_da_mega_sena_certo.Properties.Resources.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo da mega sena certo\obj\Debug\Jogo da mega sena certo.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo da mega sena certo\obj\Debug\Jogo da mega sena certo.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo da mega sena certo\bin\Debug\Jogo da mega sena certo.exe.config
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo da mega sena certo\bin\Debug\Jogo da mega sena certo.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo da mega sena certo\bin\Debug\Jogo da mega sena certo.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo da mega sena certo\obj\Debug\Jogo da mega sena certo.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Jogo da mega sena certo\obj\Debug\Jogo da mega sena certo.pdb

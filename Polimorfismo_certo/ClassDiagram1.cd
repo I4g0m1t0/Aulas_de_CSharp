@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Polimorfismo_certo.Bolo">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAACAAAAAAQAAAAAAAAAAEA=</HashCode>
+      <FileName>Bolo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Polimorfismo_certo.FlorestaNegra">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FlorestaNegra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Polimorfismo_certo.Nozes">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nozes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Polimorfismo_certo.Sensação">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sensação.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

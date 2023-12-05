@@ -1,0 +1,16 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\bin\Debug\net6.0-windows\comobobox dependente.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\bin\Debug\net6.0-windows\comobobox dependente.deps.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\bin\Debug\net6.0-windows\comobobox dependente.runtimeconfig.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\bin\Debug\net6.0-windows\comobobox dependente.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\bin\Debug\net6.0-windows\comobobox dependente.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\obj\Debug\net6.0-windows\comobobox_dependente.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\obj\Debug\net6.0-windows\comobobox dependente.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\obj\Debug\net6.0-windows\comobobox dependente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\obj\Debug\net6.0-windows\comobobox dependente.AssemblyInfoInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\obj\Debug\net6.0-windows\comobobox dependente.AssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\obj\Debug\net6.0-windows\comobobox dependente.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\obj\Debug\net6.0-windows\comobobox dependente.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\obj\Debug\net6.0-windows\refint\comobobox dependente.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\obj\Debug\net6.0-windows\comobobox dependente.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\obj\Debug\net6.0-windows\comobobox dependente.genruntimeconfig.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\comobobox dependente\obj\Debug\net6.0-windows\ref\comobobox dependente.dll

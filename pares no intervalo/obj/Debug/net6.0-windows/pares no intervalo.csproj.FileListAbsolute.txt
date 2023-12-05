@@ -1,0 +1,16 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\bin\Debug\net6.0-windows\pares no intervalo.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\bin\Debug\net6.0-windows\pares no intervalo.deps.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\bin\Debug\net6.0-windows\pares no intervalo.runtimeconfig.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\bin\Debug\net6.0-windows\pares no intervalo.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\bin\Debug\net6.0-windows\pares no intervalo.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\obj\Debug\net6.0-windows\pares_no_intervalo.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\obj\Debug\net6.0-windows\pares no intervalo.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\obj\Debug\net6.0-windows\pares no intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\obj\Debug\net6.0-windows\pares no intervalo.AssemblyInfoInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\obj\Debug\net6.0-windows\pares no intervalo.AssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\obj\Debug\net6.0-windows\pares no intervalo.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\obj\Debug\net6.0-windows\pares no intervalo.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\obj\Debug\net6.0-windows\refint\pares no intervalo.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\obj\Debug\net6.0-windows\pares no intervalo.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\obj\Debug\net6.0-windows\pares no intervalo.genruntimeconfig.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\pares no intervalo\obj\Debug\net6.0-windows\ref\pares no intervalo.dll

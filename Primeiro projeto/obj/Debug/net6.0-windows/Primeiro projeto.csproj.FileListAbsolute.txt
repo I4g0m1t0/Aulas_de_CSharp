@@ -1,0 +1,17 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\bin\Debug\net6.0-windows\Primeiro projeto.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\bin\Debug\net6.0-windows\Primeiro projeto.deps.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\bin\Debug\net6.0-windows\Primeiro projeto.runtimeconfig.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\bin\Debug\net6.0-windows\Primeiro projeto.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\bin\Debug\net6.0-windows\Primeiro projeto.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\obj\Debug\net6.0-windows\Primeiro_projeto.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\obj\Debug\net6.0-windows\Primeiro projeto.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\obj\Debug\net6.0-windows\Primeiro projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\obj\Debug\net6.0-windows\Primeiro projeto.AssemblyInfoInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\obj\Debug\net6.0-windows\Primeiro projeto.AssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\obj\Debug\net6.0-windows\Primeiro projeto.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\obj\Debug\net6.0-windows\Primeiro projeto.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\obj\Debug\net6.0-windows\refint\Primeiro projeto.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\obj\Debug\net6.0-windows\Primeiro projeto.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\obj\Debug\net6.0-windows\Primeiro projeto.genruntimeconfig.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\obj\Debug\net6.0-windows\ref\Primeiro projeto.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Visual Studio\Primeiro projeto\obj\Debug\net6.0-windows\Primeiro_projeto.Properties.Resources.resources
