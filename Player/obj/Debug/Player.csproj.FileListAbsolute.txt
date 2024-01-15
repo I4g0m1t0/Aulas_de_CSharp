@@ -1,0 +1,15 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\bin\Debug\Player.exe.config
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\bin\Debug\Player.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\bin\Debug\Player.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\obj\Debug\Player.csproj.AssemblyReference.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\obj\Debug\Player.csproj.ResolveComReference.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\obj\Debug\Player.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\obj\Debug\Player.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Player\obj\Debug\Player.pdb

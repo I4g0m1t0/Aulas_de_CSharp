@@ -1,0 +1,41 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Relógio\bin\Debug\Relógio.exe.config
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Relógio\bin\Debug\Relógio.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Relógio\bin\Debug\Relógio.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Relógio\obj\Debug\Relógio.csproj.AssemblyReference.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Relógio\obj\Debug\Relógio.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Relógio\obj\Debug\Relógio.Properties.Resources.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Relógio\obj\Debug\Relógio.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Relógio\obj\Debug\Relógio.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Relógio\obj\Debug\Relógio.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Relógio\obj\Debug\Relógio.pdb
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\Relógio.exe.config
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\Relógio.exe
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\Relógio.pdb
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\obj\Debug\Relógio.csproj.AssemblyReference.cache
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\obj\Debug\Relógio.Form1.resources
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\obj\Debug\Relógio.Properties.Resources.resources
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\obj\Debug\Relógio.csproj.GenerateResource.cache
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\obj\Debug\Relógio.csproj.CoreCompileInputs.cache
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\obj\Debug\Relógio.exe
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\obj\Debug\Relógio.pdb
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.Asio.dll
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.Core.dll
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.dll
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.Midi.dll
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.WinForms.dll
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.WinMM.dll
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.xml
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.Asio.xml
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.Core.xml
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.Midi.xml
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.WinForms.xml
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\NAudio.WinMM.xml
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Iago\Desktop\Projetos - Visual Studio\Relógio\obj\Debug\Relógio.csproj.CopyComplete
