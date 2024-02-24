@@ -1,0 +1,10 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\CRUD\bin\Debug\CRUD.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\CRUD\bin\Debug\CRUD.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\CRUD\obj\Debug\CRUD.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\CRUD\obj\Debug\CRUD.pdb

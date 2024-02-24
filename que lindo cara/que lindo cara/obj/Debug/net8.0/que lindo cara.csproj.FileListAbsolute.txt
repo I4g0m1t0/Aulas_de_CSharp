@@ -1,0 +1,61 @@
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\bin\Debug\net8.0\appsettings.json
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\bin\Debug\net8.0\que lindo cara.staticwebassets.runtime.json
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\bin\Debug\net8.0\que lindo cara.exe
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\bin\Debug\net8.0\que lindo cara.deps.json
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\bin\Debug\net8.0\que lindo cara.runtimeconfig.json
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\bin\Debug\net8.0\que lindo cara.dll
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\bin\Debug\net8.0\que lindo cara.pdb
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.AssemblyInfoInputs.cache
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.AssemblyInfo.cs
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.csproj.CoreCompileInputs.cache
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.RazorAssemblyInfo.cache
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.RazorAssemblyInfo.cs
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets\msbuild.que lindo cara.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets\msbuild.build.que lindo cara.props
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.que lindo cara.props
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.que lindo cara.props
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\scopedcss\bundle\que lindo cara.styles.css
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\scopedcss\projectbundle\que lindo cara.bundle.scp.css
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.dll
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\refint\que lindo cara.dll
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.pdb
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.genruntimeconfig.cache
+C:\Users\Iago\source\repos\que lindo cara\que lindo cara\obj\Debug\net8.0\ref\que lindo cara.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\bin\Debug\net8.0\appsettings.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\bin\Debug\net8.0\que lindo cara.staticwebassets.runtime.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\bin\Debug\net8.0\que lindo cara.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\bin\Debug\net8.0\que lindo cara.deps.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\bin\Debug\net8.0\que lindo cara.runtimeconfig.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\bin\Debug\net8.0\que lindo cara.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\bin\Debug\net8.0\que lindo cara.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.AssemblyInfoInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.AssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.RazorAssemblyInfo.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.RazorAssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.sourcelink.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets\msbuild.que lindo cara.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets\msbuild.build.que lindo cara.props
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.que lindo cara.props
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.que lindo cara.props
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\scopedcss\bundle\que lindo cara.styles.css
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\scopedcss\projectbundle\que lindo cara.bundle.scp.css
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\refint\que lindo cara.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\que lindo cara.genruntimeconfig.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\que lindo cara\que lindo cara\obj\Debug\net8.0\ref\que lindo cara.dll

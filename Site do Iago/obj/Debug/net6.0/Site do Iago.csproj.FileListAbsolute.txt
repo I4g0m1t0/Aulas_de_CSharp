@@ -1,0 +1,30 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\bin\Debug\net6.0\appsettings.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\bin\Debug\net6.0\Site do Iago.staticwebassets.runtime.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\bin\Debug\net6.0\Site do Iago.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\bin\Debug\net6.0\Site do Iago.deps.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\bin\Debug\net6.0\Site do Iago.runtimeconfig.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\bin\Debug\net6.0\Site do Iago.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\bin\Debug\net6.0\Site do Iago.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\Site do Iago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\Site do Iago.AssemblyInfoInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\Site do Iago.AssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\Site do Iago.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\Site do Iago.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\Site do Iago.RazorAssemblyInfo.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\Site do Iago.RazorAssemblyInfo.cs
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\staticwebassets\msbuild.Site do Iago.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\staticwebassets\msbuild.build.Site do Iago.props
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Site do Iago.props
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Site do Iago.props
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\scopedcss\bundle\Site do Iago.styles.css
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\scopedcss\projectbundle\Site do Iago.bundle.scp.css
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\Site do Iago.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\refint\Site do Iago.dll
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\Site do Iago.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\Site do Iago.genruntimeconfig.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Site do Iago\obj\Debug\net6.0\ref\Site do Iago.dll

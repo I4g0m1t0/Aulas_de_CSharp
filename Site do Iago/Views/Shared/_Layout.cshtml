@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]Cristiano Ronaldo</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Site_do_Iago.styles.css" asp-append-version="true" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <section class="hero" id="Home">
+        <div class="main-widht">
+            <header>
+                <div class="logo">
+                    <i class="fa-solid fa-c"></i>
+                    <i class="fa-solid fa-r"></i>
+                    <i class="fa-solid fa-7"></i>
+                </div>
+
+                <nav>
+                    <div class="hamb">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+
+                    <ul class="nav-list">
+                        <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li><a asp-area ="" asp-controller="Home" asp-action="Privacy">About</a></li>
+                        <li><a href="#">Trophies</a></li>
+                        <li><a href="#">Awards</a></li>
+                        <li><a href="#">The Creator</a></li>
+                        <li class="btn"><a href="https://www.youtube.com/watch?v=XWWM4jycABI" target="_blank">Highlights</a></li>
+                    </ul>
+                </nav>
+            </header>
+
+            <div class="container">
+                <div class="hero-text">
+                    <h3>Hi, There!</h3>
+                    <h1>I am <span class="input"></span></h1>
+                    <p>I'm Cristiano Ronaldo, a celebrated Portuguese footballer, known for my exceptional skills and goal-scoring ability. I've played for renowned clubs like Manchester United, Real Madrid, and Juventus. Multiple FIFA Ballon d'Or awards and my influence on the sport have made me one of the world's most famous athletes.</p>
+
+                    <div class="social">
+                        <a href="https://www.facebook.com/Cristiano?locale=pt_BR" target="_blank"><i class="fa-brands fa-square-facebook"></i></a>
+                        <a href="https://twitter.com/Cristiano" target="_blank"><i class="fa-brands fa-square-x-twitter"></i></a>
+                        <a href="https://www.instagram.com/cristiano/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                        <!----<a href="#"></a>
+                        <a href="#"></a>---->
+                    </div>
+                    <button type="button" onclick="window.open('https://www.youtube.com/watch?v=NmH4tgirPZQ')">More About Me</button>
+                </div>
+                <div class="bottom">
+                    <!--<p>© 2023 Tramontin - All Rights Reserved</p>-->
+                    @RenderBody()
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+    
+    <script type="text/javascript" src="script.js"></script>
+
+            <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+
+            <script>
+                var typed = new Typed(".input", {
+                    strings: ["Cristiano Ronaldo.", "A Man.", "A Machine.", "A Caged Beast.", "The GOAT."],
+                    typeSpeed: 80,
+                    backSpeed: 70,
+                    loop: true
+                });
+            </script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+</body>
+</html>

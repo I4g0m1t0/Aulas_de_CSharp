@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+<section class="hero text-section">
+    <div class="main-widht">
+        <div class="container">
+            <div class="hero-text">
+                <h3>Hi, There!</h3>
+                <h1>I am <span class="input"></span></h1>
+                <p>
+                    I'm Cristiano Ronaldo, a celebrated Portuguese footballer, known for my exceptional skills and
+                    goal-scoring ability. I've played for renowned clubs like Manchester United, Real Madrid, and
+                    Juventus. Multiple FIFA Ballon d'Or awards and my influence on the sport have made me one of the
+                    world's most famous athletes.
+                </p>
+
+                <div class="social">
+                    <a href="https://www.facebook.com/Cristiano?locale=pt_BR" target="_blank">
+                        <i class="fa-brands fa-square-facebook"></i>
+                    </a>
+                    <a href="https://twitter.com/Cristiano" target="_blank">
+                        <i class="fa-brands fa-square-x-twitter"></i>
+                    </a>
+                    <a href="https://www.instagram.com/cristiano/" target="_blank">
+                        <i class="fa-brands fa-instagram"></i>
+                    </a>
+                </div>
+                <button type="button" onclick="window.open('https://www.youtube.com/watch?v=NmH4tgirPZQ')">
+                    More
+                    About Me
+                </button>
+            </div>
+            <!--<div class="bottom">
+                <p>© 2023 Tramontin - All Rights Reserved</p>
+            </div>-->
+        </div>
+    </div>
+</section>
+
+<script type="text/javascript" src="script.js"></script>
+
+<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+
+<script>
+    var typed = new Typed(".input", {
+        strings: ["Cristiano Ronaldo.", "A Man.", "A Machine.", "A Caged Beast.", "The GOAT."],
+        typeSpeed: 80,
+        backSpeed: 70,
+        loop: true
+    });
+</script>

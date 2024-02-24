@@ -1,0 +1,24 @@
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login\bin\Debug\Tela de login.exe.config
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login\bin\Debug\Tela de login.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login\bin\Debug\Tela de login.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login\obj\Debug\Tela de login.csproj.AssemblyReference.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login\obj\Debug\Tela_de_login.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login\obj\Debug\Tela_de_login.Properties.Resources.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login\obj\Debug\Tela de login.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login\obj\Debug\Tela de login.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login\obj\Debug\Tela de login.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login\obj\Debug\Tela de login.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login\obj\Debug\Tela_de_login.Form2.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login\obj\Debug\Tela_de_login.Form3.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login - Copia\bin\Debug\Tela de login.exe.config
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login - Copia\bin\Debug\Tela de login.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login - Copia\bin\Debug\Tela de login.pdb
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login - Copia\obj\Debug\Tela de login.csproj.AssemblyReference.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login - Copia\obj\Debug\Tela_de_login.Form1.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login - Copia\obj\Debug\Tela_de_login.Form2.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login - Copia\obj\Debug\Tela_de_login.Form3.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login - Copia\obj\Debug\Tela_de_login.Properties.Resources.resources
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login - Copia\obj\Debug\Tela de login.csproj.GenerateResource.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login - Copia\obj\Debug\Tela de login.csproj.CoreCompileInputs.cache
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login - Copia\obj\Debug\Tela de login.exe
+C:\Users\iago.tramontin\OneDrive - SENAC-SC\Área de Trabalho\Entra 21\Visual Studio - Claudia\Tela de login - Copia\obj\Debug\Tela de login.pdb
